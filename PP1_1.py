@@ -1,13 +1,14 @@
 def q1():
-  #Write Assignment code here
+  print("hello world")
+
 def q2():
-  #Write Assignment code here
-
+  print("1"), '\n',print("2"), '\n',print("3"), '\n',print("4"), '\n',print("5")
+  
 def q3():
-  #Write Assignment code here
-
-def q4:
-  #Write Assignment code here
+  print(" Help Me!")
+  
+def q4():
+  print("3x3=9")
 
 q1()
 q2()
